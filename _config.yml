@@ -22,7 +22,7 @@ title: The Snark Tank
 email: terrigan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This seems to be a place an old nerd posts things. This description
-subject to change when I come up with something better.
+  subject to change when I come up with something better.
 domain: oldepsn00b.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://oldepsn00b.github.io" # the base hostname & protocol for your site, e.g. http://example.com

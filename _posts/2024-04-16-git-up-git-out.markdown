@@ -12,3 +12,11 @@ Markdown from Github's document pages, Google and just pure determination. I hav
 
   As a professed old IT guy, I started out like most old IT guys, managing windows devices with VBS, batch files and all sorts of other methods to attempt to streamline processes in my environment. I'm a stubbord old sod and I figured well, if it works, why change it? Many, many years ago we took over a department that was managed by an IT contractor to bring things into a more cohesive fold. We spent a few weeks switching domains and learning their hardware and software requirements. While I was migrating an old server, I discovered some software that the contractor used by a company called Admin Arsenal (now pdq.com). This software just about changed everything for me for my current job as it allowed me to "deploy" software. Prior to the discovery, we were running around or remoting in to computers and installing software manually. When i realized what this software did after researching it, I approached my boss and pretty much explained that this software would change everything for how we did software installs. I was allowed to purchase it a few weeks later and we have been using Deploy and Inventory since. Because of that discovery, I wanted to further streamline things and heard about PC imaging (we were installing Windows off optical media on computers that needed to be wiped) and we implemented Fog (www.fogproject.org) and I started building OS images and we would save even more time! 
 
+  <script src="https://utteranc.es/client.js"
+        repo="OldePSN00b/OldePSN00b.github.io" 
+        issue-term="pathname"
+        theme="github-light"
+        label="comment"
+        crossorigin="anonymous"
+        async>
+</script>

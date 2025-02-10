@@ -19,3 +19,12 @@ and a software called Veeam Backup piqued our interest. We bought NAS boxes from
 using that for backup storage. Things ramped up even after that, analog phones gone and VOIP became 
 king. People started clamoring for wireless so we ended up deploying internal and guest wireless to 
 all our buildings.
+
+<script src="https://utteranc.es/client.js"
+        repo="OldePSN00b/OldePSN00b.github.io" 
+        issue-term="pathname"
+        theme="github-light"
+        label="comment"
+        crossorigin="anonymous"
+        async>
+</script>

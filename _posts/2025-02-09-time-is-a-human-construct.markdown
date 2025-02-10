@@ -15,3 +15,12 @@ I also really enjoy watching shows and I have a few streaming services which I s
 So, let's talk PowerShell. I'm trying to learn it at work and haven't *really* tried using it at home, barring one script which I wrote to backup a specific game saves to Google Drive. I did get PowerShell and a Month of Lunches a while ago and should probably endeavor to finish reading it. I do like listening to smart people talk about PowerShell though and try to follow the PowerShell Podcast (https://www.pdq.com/resources/the-powershell-podcast/) as well as attend PowerShell Wednesday: Lunch & Learn on the PDQ Discord (when I don't get interruped). My work PowerShell persona has basically devolved into, "I want to do this and I need a tool now, time to negotiate with ChatGPT." and that works for the most part. I know LLMs do make mistakes but I don't have it write scripts that will nuke AD from orbit and I test things first before using them. I'm also getting up there in years, the last programming language I wrote was Java and it was only for a college class, I haven't written a line of Java since. I do like a challenge though and will keep plugging away at it as I've gotten a few tools that have sped up my work life and kept me out of the GUI more often than not. Note I didn't say "I've written" because most of it is a compilation of things I've coerced out of ChatGPT and scripts I've modified from the Internet that people have already written. (Why reinvent the wheel when you don't have to?)
 
 That seems long enough for me for a blog entry, I think it's time to go and do something not blog related. Until next time!
+
+<script src="https://utteranc.es/client.js"
+        repo="OldePSN00b/OldePSN00b.github.io" 
+        issue-term="pathname"
+        theme="github-dark"
+        label="comment"
+        crossorigin="anonymous"
+        async>
+</script>

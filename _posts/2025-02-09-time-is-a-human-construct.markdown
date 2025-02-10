@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Time is a human construct, Lunchtime doubly so"
 date:   2025-02-09 16:18:00 -0500
 categories: jekyll update

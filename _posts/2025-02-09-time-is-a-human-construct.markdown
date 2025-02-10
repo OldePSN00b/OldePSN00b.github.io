@@ -20,7 +20,7 @@ That seems long enough for me for a blog entry, I think it's time to go and do s
 <script src="https://utteranc.es/client.js"
         repo="OldePSN00b/OldePSN00b.github.io" 
         issue-term="pathname"
-        theme="github-dark"
+        theme="github-light"
         label="comment"
         crossorigin="anonymous"
         async>

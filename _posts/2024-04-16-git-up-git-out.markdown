@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Git Up, Git Out - The Beginning"
 date:   2024-04-16 5:30:30 -0500
 categories: jekyll update

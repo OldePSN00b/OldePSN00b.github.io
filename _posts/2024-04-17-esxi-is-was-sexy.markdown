@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "ESXi is (wa$) sexy"
 date:   2024-04-17 11:38:00 -0500
 categories: jekyll update
